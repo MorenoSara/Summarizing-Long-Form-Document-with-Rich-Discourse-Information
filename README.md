@@ -1,4 +1,4 @@
-# Summarizing-Long-Form-Document-with-Rich-Discourse-Information
+# Summarizing Long-Form Document with Rich Discourse Information
 
 This work is an assignment for the course of `Deep Natural Language Processing` at `Politecnico di Torino` in the academic year 2021/2022. 
 
