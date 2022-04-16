@@ -10,7 +10,10 @@ The model is composed of 2 separate modules:
 
 We proposed two extensions:
 * **Data enrichment**: we trained the model with a mixture of PubMed and arXiv dataset;
-* **Ablation study**: we tested the model without Content Ranking Module, disabling the iterative update of nodes representetions in the Extractive Summarization Module and the last one, without the boundary distance feature.
+* **Ablation study**: 
+  1. Model without Content Ranking Module;
+  2. Disable the iterative update of nodes representetions in the Extractive Summarization Module;
+  3. Remove the boundary distance feature.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14xPy1cdP-6FiDkWaMR-m4RfgntJh5H5e?usp=sharing)
 
