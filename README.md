@@ -2,7 +2,7 @@
 
 This work is an assignment for the course of `Deep Natural Language Processing` at `Politecnico di Torino` in the academic year 2021/2022. 
 
-In this project we tried to implement *HEROES (Hierarchy-Enhanced Graph for Rich-discOurse Document Extractive Summarization)*, a model presented in the paper [Summarizing Long-Form Document with Rich Discourse Information, Tianyu Zhu et al](https://dl.acm.org/doi/abs/10.1145/3459637.3482396)). 
+In this project we tried to implement *HEROES (Hierarchy-Enhanced Graph for Rich-discOurse Document Extractive Summarization)*, a model presented in the paper [Summarizing Long-Form Document with Rich Discourse Information, Tianyu Zhu et al](https://dl.acm.org/doi/abs/10.1145/3459637.3482396). 
 
 The model is composed of 2 separate modules:
 * **Content Ranking Module**: assigns a relevance score to each section and sentence;
