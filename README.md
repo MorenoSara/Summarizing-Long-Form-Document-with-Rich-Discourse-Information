@@ -41,6 +41,9 @@ In our work the only exploited fields are:
 - `section_names`: a title for each section contained in the document; 
 - `sections`: all the sentences of each section of the document.
 
+# Usage
+It is possible to exploit the model by simply setting the correct data paths in the **Paths** section of the notebook and running the whole code.
+
 # Output document
 Each time the model is tested it creates a file in the `./test` directory (if not alreary present it creates it) named after the current timestamp. An example of returned document is the following:
 ```bash
