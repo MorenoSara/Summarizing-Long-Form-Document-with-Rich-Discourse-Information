@@ -1,11 +1,11 @@
-Data collections for TEXT SUMMARIZATION
+Data collections for text summarization
 =================
 
 **Students:** Moreno Sara, Galvagno Stefano
 
    * [PubMed](#PubMed)
    * [arXiv](#arXiv)
-
+---
 ### PubMed
 **Published:** 05-22-2018
 
@@ -26,7 +26,7 @@ It has been used for the task of summarizing long document withou losing the inf
 - Evaluation set: 6,633 samples
 - Test Set: 6,658 samples
 - Dataset format: JSON
-
+---
 ### arXiv
 **Published:** 05-22-2018
 
